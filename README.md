@@ -29,6 +29,4 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidogra225&layout=compact&theme=radical&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhidogra225&theme=radical&hide_border=false)
-vity-graph.vercel.app/graph?username=abhidogra225&theme=react-dark&hide_border=true&area=true)
 
