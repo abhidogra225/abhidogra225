@@ -23,20 +23,19 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
 <div align="center">
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=abhidogra225&show_icons=true&count_private=true&hide_border=true&theme=radical" height="170" alt="GitHub Stats" />
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=abhidogra225&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+<!-- Streak (use this stable endpoint) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhidogra225&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhidogra225&layout=compact&hide_border=true&theme=radical" height="170" alt="Top Languages" />
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidogra225&theme=radical&hide_border=true" height="250" alt="Contribution Graph" />
+<!-- Activity Graph (contribution heatmap) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidogra225&theme=radical&hide_border=true" height="220" alt="Contribution Graph" />
 
 </div>
+
