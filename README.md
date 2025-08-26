@@ -23,19 +23,16 @@
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=abhidogra225&show_icons=true&count_private=true&hide_border=true&theme=radical" height="170" alt="GitHub Stats" />
+![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhidogra225&show_icons=true&theme=radical&hide_border=true)
 
-<!-- Streak (use this stable endpoint) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhidogra225&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidogra225&layout=compact&theme=radical&hide_border=true)
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhidogra225&layout=compact&hide_border=true&theme=radical" height="170" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=abhidogra225&theme=radical&hide_border=true)
 
-<!-- Activity Graph (contribution heatmap) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhidogra225&theme=radical&hide_border=true" height="220" alt="Contribution Graph" />
+![Abhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhidogra225&theme=react-dark&hide_border=true&area=true)
 
-</div>
+---
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhidogra225&label=Profile%20Views&color=ff69b4&style=flat)
