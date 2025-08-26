@@ -1,5 +1,13 @@
-## 👨‍💻 Languages & Tools
+# Hi there, I'm Abhi Dogra 👋
 
+## 💫 About Me
+- 🎓 Final Year **Information Technology** student at **DY Patil Institute of Technology, Pune**
+- Feel free to explore my repositories and dive into my various projects. I'm always exploring opportunities to collaborate — feel free to connect! 
+
+
+---
+
+## 👨‍💻 Languages & Tools
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -12,3 +20,12 @@
 [![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+
+---
+
+## 📊 GitHub Stats
+![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhidogra225&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidogra225&layout=compact&theme=radical)
+
+---
+
