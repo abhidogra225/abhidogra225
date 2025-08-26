@@ -23,16 +23,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐱 GitHub Stats
 
-![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhidogra225&show_icons=true&theme=radical&hide_border=true)
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhidogra225&show_icons=true&theme=radical&hide_border=false&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidogra225&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhidogra225&layout=compact&theme=radical&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abhidogra225&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhidogra225&theme=radical&hide_border=false)
+vity-graph.vercel.app/graph?username=abhidogra225&theme=react-dark&hide_border=true&area=true)
 
-![Abhi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhidogra225&theme=react-dark&hide_border=true&area=true)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhidogra225&label=Profile%20Views&color=ff69b4&style=flat)
